@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "iran-sans-x-fa-num";
+  src: url("~/assets/fonts/iran-sans-x/IRANSansXFaNum-Regular.woff")
+    format("woff");
+  src: url("~/assets/fonts/iran-sans-x/IRANSansXFaNum-Regular.woff2")
+    format("woff2");
+}
